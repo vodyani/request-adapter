@@ -21,7 +21,9 @@ npm install @vodyani/request-adapter
 
 ## Dependencies
 
-- [kafka-node](https://github.com/SOHU-Co/kafka-node) `v5`
+- [axios](https://github.com/axios/axios) `v0.26`
+- [form-data](https://github.com/form-data/form-data) `v4`
+- [agentkeepalive](https://github.com/node-modules/agentkeepalive) `v4`
 
 ## License
 
